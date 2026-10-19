@@ -1,5 +1,6 @@
 app_name=HealthApp
 pantalla_principal=Panel de pacientes
+pantalla_registro=Registro de pacientes
 login_validation=enabled
-patient_registration=pending
+patient_registration=enabled
 version=0.1.0
