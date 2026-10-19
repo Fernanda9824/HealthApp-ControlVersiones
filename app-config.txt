@@ -1,5 +1,5 @@
 app_name=HealthApp
-pantalla_principal=Inicio de sesion
+pantalla_principal=Panel de pacientes
 login_validation=enabled
 patient_registration=pending
 version=0.1.0
