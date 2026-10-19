@@ -1,0 +1,5 @@
+app_name=HealthApp
+pantalla_principal=Inicio
+login_validation=pending
+patient_registration=pending
+version=0.1.0
